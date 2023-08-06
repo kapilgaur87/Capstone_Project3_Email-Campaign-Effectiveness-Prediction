@@ -22,9 +22,7 @@ This project aims to predict the effectiveness of email marketing campaigns by a
 
 ## Getting Started
 1. Clone this repository: `git clone https://github.com/kapilgaur87/Capstone_Project3_Email-Campaign-Effectiveness-Prediction.git`
-2. Navigate to the project directory: `cd Capstone_Project_Email-Campaign-Effectiveness-Prediction`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the prediction script: `python predict_effectiveness.py`
+2. Run the google colab notebook
 
 ## Data
 The dataset used for this project is available in repository with the name data_email_campaign.csv
